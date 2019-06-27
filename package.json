@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app/index.js",
     "start:dev": "webpack-dev-server",
-    "build": "webpack --config webpack.config.js"
+    "build:dev": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "",
